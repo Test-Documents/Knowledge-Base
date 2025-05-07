@@ -1,2 +1,82 @@
 # Knowledge-Base
 KB Info
+Here are some general steps to troubleshoot a laptop that isn't working correctly:
+
+---
+
+### **1. Observe the Symptoms**
+
+* Is it not turning on at all?
+* Is it slow, freezing, or crashing?
+* Are there error messages or unusual noises?
+* Is the display blank or distorted?
+
+---
+
+### **2. Check the Power**
+
+* **Ensure the battery is charged** or **plug in the power adapter**.
+* **Try a different power outlet** or **adapter** if available.
+* Look for **charging/power LED indicators**.
+
+---
+
+### **3. Perform a Hard Reset**
+
+* Power off the laptop.
+* Unplug the charger and remove the battery (if possible).
+* Hold the power button for **15–30 seconds**, then reconnect and try again.
+
+---
+
+### **4. Check the Display**
+
+* Make sure **brightness isn't turned all the way down**.
+* Try connecting to an **external monitor** to check if the issue is with the screen.
+
+---
+
+### **5. Boot into Safe Mode**
+
+* Try booting into **Safe Mode (Windows)** or **macOS Safe Boot** to load minimal drivers and isolate software issues.
+
+---
+
+### **6. Check for Overheating**
+
+* Feel for **heat** or **listen for fans**.
+* Clean **air vents** and make sure the **fans spin**.
+
+---
+
+### **7. Run Diagnostics**
+
+* Use built-in diagnostics:
+
+  * Dell: F12 on boot → Diagnostics
+  * HP: Esc → F2 for system diagnostics
+  * Mac: Hold D on startup
+
+---
+
+### **8. Check for Hardware Issues**
+
+* Test with a **different charger**, **RAM**, or **hard drive** if possible.
+* Listen for **beeps** or look for **blinking LEDs** (they often indicate hardware codes).
+
+---
+
+### **9. Scan for Malware and Updates**
+
+* Boot into Safe Mode and run antivirus scans.
+* Update the OS and drivers if possible.
+
+---
+
+### **10. Restore or Reset System**
+
+* Use **System Restore**, **macOS Recovery**, or a **factory reset** as a last resort if software issues persist.
+
+---
+
+Would you like steps tailored to a specific issue like not booting, overheating, or software problems?
